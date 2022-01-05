@@ -1,5 +1,6 @@
 # Demo Done Right
 
+<<<<<<< HEAD
 git reset --hard {unique id} => Used to reset back the code to the specified version
 git reset --hard origin/master => Used to reset back to code thats in the repo
 git log => used to give you all the commits
@@ -10,3 +11,8 @@ git checkout {branch name} => used to navigate btw the banches
 git add file name => adds the file to the staged environment
 git commit => used to save changes in ypur repo
 git merge branch_name => HAS TO BE DONE FROM THE MASTER BRANCH , merges the branch specified to the master
+=======
+Text field for description
+Some changes made again!
+Changes made in new-branch file. Yet to be merged!
+>>>>>>> 286b671126c2b141be9e03042f0edc85b1156755
